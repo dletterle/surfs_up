@@ -20,4 +20,13 @@ After data analysis for the two months of June and December, the following was r
 
 <img width="127" alt="image" src="https://user-images.githubusercontent.com/99268646/163897027-112ea203-9130-4c62-a990-a98474fdc65c.png">
 
+_Differences_
+
+Between the months of June and December there are clear differences: 
+    *    The mean temp for June is higher at 74.94 where as the mean temp for December is 71.04
+    *    The minimum temp for June is 64.0 and the minimum temp for December is 56.0  
+    *    The maximum temp for June is 85.0 and the maximum temo for December is 83.0 
     
+**Summary**
+
+When reviewing the data at a high-level analysis, there are 
