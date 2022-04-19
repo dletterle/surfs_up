@@ -29,4 +29,9 @@ Between the months of June and December there are clear differences:
     
 **Summary**
 
-When reviewing the data at a high-level analysis, there are 
+When reviewing the data at a high-level analysis, there are slight similarities in the data. For example the standard deviation for June is 3.25 and the standard deviation for December is 3.75 meaning the temp for June and December both vary at almost a 10 degree shift from the mean (+/- 3 in either direction) and there is only a .5 difference in standard deviation between the months. While the quartile values and miniumum and maximum values are fairly similar, it is apparent that the average (mean) for June is noticably higher at almost 5 degrees warmer. 
+
+_Additional Queries_
+
+Of course not just temperature is important to gather when opening a business desgined for beach amenitites. Other queries I would gather would be to analyze precipitation throughout the months. This would be important because as described in the prompt, the first year the business was opened it was rained out. Another query I would analyze is wind speed at different locations where the business may be built. Of course on the beach wind direction and speed can vary drastically depending on the flattness of the land or if there are other landmark barriers impeding wind speed. This may be important to also calculate the potential success of the business. 
+
