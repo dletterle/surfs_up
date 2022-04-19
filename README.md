@@ -6,3 +6,18 @@ W. Avy likes your analysis, but he wants more information about temperature tren
 *   Deliverable 1: Determine the Summary Statistics for June
 *   Deliverable 2: Determine the Summary Statistics for December
 *   Deliverable 3: A written report for the statistical analysis (README.md)
+
+**Results**
+
+After data analysis for the two months of June and December, the following was reviewed: 
+
+*   For the month of June:
+
+<img width="107" alt="image" src="https://user-images.githubusercontent.com/99268646/163896942-071274b9-cd29-4fc3-8dbc-d1291961cdfd.png">
+
+
+*   For the month of December:  
+
+<img width="127" alt="image" src="https://user-images.githubusercontent.com/99268646/163897027-112ea203-9130-4c62-a990-a98474fdc65c.png">
+
+    
